@@ -1,4 +1,10 @@
 # Incremental Game
-Made using Unity 2018.3.3
-Tugas Chapter 2
-448 Dandi Prayogatama
+[73/100] Chapter 2 Incremental
+448
+Dandi Prayogatama
+
+
+ada 2 Folder
+
+1) standalone
+2) fileproject
